@@ -26,3 +26,6 @@ In this project we implement a state-of-art classifier with BERT (Language Model
 - textwrap
 - nltk
 - re
+
+## Sample Output
+![image](https://user-images.githubusercontent.com/23293766/185601833-6dd0f4e2-eabf-417e-900e-1069f444d3e9.png)
